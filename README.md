@@ -53,7 +53,8 @@
 ### 1. 회원가입
 
 <img width="223" height="431" alt="image" src="https://github.com/user-attachments/assets/50bfc3a7-491f-473d-9380-cc3ffe4d590f" />
-초기 화면
+
+[초기 화면]
 
 사용자는 이메일, 아이디, 비밀번호를 입력하여 회원가입할 수 있습니다.
 
