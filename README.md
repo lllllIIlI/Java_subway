@@ -53,7 +53,7 @@
 ### 1. 회원가입
 
 <img width="223" height="431" alt="image" src="https://github.com/user-attachments/assets/50bfc3a7-491f-473d-9380-cc3ffe4d590f" />
-
+초기 화면
 
 사용자는 이메일, 아이디, 비밀번호를 입력하여 회원가입할 수 있습니다.
 
@@ -68,6 +68,12 @@
 ---
 
 ### 2. 로그인
+
+<img width="249" height="478" alt="image" src="https://github.com/user-attachments/assets/6a8caf08-4cc7-4cc4-beca-a6ba21eba69d" />
+<img width="234" height="467" alt="image" src="https://github.com/user-attachments/assets/ab660a17-fc2d-4fdc-98c2-131006011d71" />
+
+[회원가입 실패&성공]
+
 
 등록된 계정으로 로그인할 수 있습니다.
 
