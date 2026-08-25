@@ -255,8 +255,6 @@ Firebase Realtime Database
         └── password
 ```
 
-## 실제 프로젝트 코드에서도 `FirebaseDatabase`와 `DatabaseReference`를 사용하여 사용자 데이터를 조회하고 추가·수정·삭제하는 구조를 확인할 수 있습니다.
-
 ## 🛠️ 사용 기술
 
 ### Android
