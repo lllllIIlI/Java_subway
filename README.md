@@ -75,10 +75,14 @@
 
 ### 2. 로그인
 
-<img width="262" height="527" alt="image" src="https://github.com/user-attachments/assets/e3fc61ff-d0f9-465c-80e9-e96a6a6ad193" />
 <img width="325" height="626" alt="image" src="https://github.com/user-attachments/assets/4b19670b-fa99-4d50-af45-e1bf771b69fa" />
+[로그인 캡챠 화면]
+
+<img width="262" height="527" alt="image" src="https://github.com/user-attachments/assets/e3fc61ff-d0f9-465c-80e9-e96a6a6ad193" />
+[로그인 실패 화면] 
+
 <img width="288" height="540" alt="image" src="https://github.com/user-attachments/assets/f8395b11-ced0-4e87-9cd7-ebb3afc90ee2" />
-[로그인 실패 화면]   [로그인 캡챠 화면]   [로그인 성공 후 메인 화면]   
+[로그인 성공 후 메인 화면]   
 
 등록된 계정으로 로그인할 수 있습니다.
 
