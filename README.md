@@ -58,6 +58,11 @@
 
 사용자는 이메일, 아이디, 비밀번호를 입력하여 회원가입할 수 있습니다.
 
+<img width="249" height="478" alt="image" src="https://github.com/user-attachments/assets/6a8caf08-4cc7-4cc4-beca-a6ba21eba69d" />
+<img width="234" height="467" alt="image" src="https://github.com/user-attachments/assets/ab660a17-fc2d-4fdc-98c2-131006011d71" />
+
+[회원가입 실패&성공]
+
 * 이메일 / 아이디 / 비밀번호 입력
 * 비밀번호 확인
 * 중복 아이디 확인
@@ -70,11 +75,10 @@
 
 ### 2. 로그인
 
-<img width="249" height="478" alt="image" src="https://github.com/user-attachments/assets/6a8caf08-4cc7-4cc4-beca-a6ba21eba69d" />
-<img width="234" height="467" alt="image" src="https://github.com/user-attachments/assets/ab660a17-fc2d-4fdc-98c2-131006011d71" />
-
-[회원가입 실패&성공]
-
+<img width="262" height="527" alt="image" src="https://github.com/user-attachments/assets/e3fc61ff-d0f9-465c-80e9-e96a6a6ad193" />
+<img width="325" height="626" alt="image" src="https://github.com/user-attachments/assets/4b19670b-fa99-4d50-af45-e1bf771b69fa" />
+<img width="288" height="540" alt="image" src="https://github.com/user-attachments/assets/f8395b11-ced0-4e87-9cd7-ebb3afc90ee2" />
+[로그인 실패 화면]   [로그인 캡챠 화면]   [로그인 성공 후 메인 화면]   
 
 등록된 계정으로 로그인할 수 있습니다.
 
